@@ -1,0 +1,12 @@
+VERSION:3 SOURCE_TIMESTAMP:5B5F8E92
+NODE:I LEVEL:0 LINE:1 "C:\cvavr\inc\delay.h"
+NODE:I LEVEL:0 LINE:2 "C:\cvavr\inc\mega32.h"
+NODE:I LEVEL:0 LINE:3 "C:\cvavr\inc\stdio.h"
+NODE:I LEVEL:0 LINE:10 "C:\cvavr\inc\lcd.h"
+NODE:V LEVEL:0 LINE:12 "raw_key_code -> R5"
+NODE:V LEVEL:0 LINE:13 "row_mask -> R4"
+NODE:V LEVEL:0 LINE:14 "row_index -> R7"
+NODE:V LEVEL:0 LINE:15 "lcd_buffer -> RAM:????"
+NODE:V LEVEL:0 LINE:16 "key_number -> R6"
+NODE:F LEVEL:0 LINE:19 "ext_int0_isr(void)"
+NODE:F LEVEL:0 LINE:74 "main(void)"
